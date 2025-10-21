@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Flujo principal de usuario en SauceDemo" skipped="0" tests="4" time="12.08" timestamp="2025-10-21 02:22:11"><testcase name="Login exitoso"/><testcase name="Login fallido"/><testcase name="Agregar productos al carrito"/><testcase name="Completar proceso de compra"/></testsuite>
